@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital@1&family=Indie+Flower&family=Jacques+Francois+Shadow&family=Montserrat&family=Pacifico&family=Playfair+Display&family=Roboto:ital,wght@0,100;0,300;0,400;1,100;1,400&display=swap');
+
+body {
+    font-family: 'Hurricane', sans-serif;
+    padding: 0;
+    margin: 0;
+    font-size: 20px;
+}
+
+header {
+    background-color: #959595a2;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logoimg {
+    padding: 20px;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 900;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Indie Flower', cursive;
+}
+
+ul {
+    display: flex;
+    align-content: center;
+    list-style: none;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+.icon {
+    width: 20%;
+}
+footer {
+    color: black;
+    text-decoration: none;
+    margin-right: 60px;
+}
